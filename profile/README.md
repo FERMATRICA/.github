@@ -17,7 +17,9 @@ Among other advantages of FERMATRICA are wide and flexible support for panel mod
 
 ## Installation
 
-FERMATRICA consists of three publicly available reposotories, install them all for most scenarios:
+FERMATRICA consists of three publicly available reposotories, install them all for most scenarios.
+
+1. Clone repos
 
   ```commandline
   cd [my_fermatrica_folder]
@@ -26,7 +28,7 @@ FERMATRICA consists of three publicly available reposotories, install them all f
   git clone https://github.com/FERMATRICA/fermatrica_rep.git 
   ```
 
-And install via `pip install [path]`
+2. Install each via `pip install [path]`
 
 ## Documentation
 
