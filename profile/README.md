@@ -27,3 +27,13 @@ FERMATRICA consists of three publicly available reposotories, install them all f
   ```
 
 And install via `pip install [path]`
+
+## Documentation
+
+- [More about FERMATRICA](https://fermatrica.github.io/fermatrica/)
+- [API Reference](https://fermatrica.github.io/fermatrica/api/index.html)
+- [Marketing Mix Modelling with FERMATRICA](https://fermatrica.github.io/fermatrica/guides/FERMATRICA_and_MMM_instruction.html)
+  
+## Authors
+
+FERMATRICA was first designed by OKKAM Business Data Science Team. Please contact us if any additional info, support or consulting is required.
