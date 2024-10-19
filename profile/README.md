@@ -32,8 +32,8 @@ FERMATRICA consists of three publicly available reposotories, install them all f
 
 ## Documentation
 
-- [More about FERMATRICA](https://fermatrica.github.io/fermatrica/)
-- [API Reference](https://fermatrica.github.io/fermatrica/api/index.html)
+- [Documentation](https://fermatrica.github.io/docs/)
+- [More about FERMATRICA](https://fermatrica.github.io)
 - [Marketing Mix Modelling with FERMATRICA](https://fermatrica.github.io/fermatrica/guides/FERMATRICA_and_MMM_instruction.html)
   
 ## Authors
