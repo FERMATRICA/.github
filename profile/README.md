@@ -2,7 +2,7 @@
 
 FERMATRICA (pronounced as _"Fermatritsa"_) allows the construction of time series models and panel models with a focus on marketing mix modeling. The core functionality can also be applied to tasks from other subject areas.
 
-The approach used separates the model description into two contours:
+The approach used separates the model definition into two contours:
 
 1. Inner contour - generally a linear model.
 2. Outer contour - transformations that occur before building/executing the linear model and/or after it.
